@@ -10,5 +10,6 @@ namespace TradingManagement.API.DTOs
         public int Id { get; set; }
         public string Name { get; set; }
         public string Type { get; set; }
+        public decimal Return { get; set; }
     }
 }
