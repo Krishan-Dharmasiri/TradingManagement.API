@@ -1,0 +1,14 @@
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\bin\Debug\netcoreapp2.2\TradingManagement.API.deps.json
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\bin\Debug\netcoreapp2.2\TradingManagement.API.runtimeconfig.json
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\bin\Debug\netcoreapp2.2\TradingManagement.API.runtimeconfig.dev.json
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\bin\Debug\netcoreapp2.2\TradingManagement.API.dll
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\bin\Debug\netcoreapp2.2\TradingManagement.API.pdb
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\obj\Debug\netcoreapp2.2\TradingManagement.API.csprojAssemblyReference.cache
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\obj\Debug\netcoreapp2.2\TradingManagement.API.csproj.CoreCompileInputs.cache
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\obj\Debug\netcoreapp2.2\TradingManagement.API.RazorAssemblyInfo.cache
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\obj\Debug\netcoreapp2.2\TradingManagement.API.RazorAssemblyInfo.cs
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\obj\Debug\netcoreapp2.2\TradingManagement.API.AssemblyInfoInputs.cache
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\obj\Debug\netcoreapp2.2\TradingManagement.API.AssemblyInfo.cs
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\obj\Debug\netcoreapp2.2\TradingManagement.API.RazorTargetAssemblyInfo.cache
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\obj\Debug\netcoreapp2.2\TradingManagement.API.dll
+C:\Krishantha\Projects\net core\TradingManagement\TradingManagement.API\obj\Debug\netcoreapp2.2\TradingManagement.API.pdb
