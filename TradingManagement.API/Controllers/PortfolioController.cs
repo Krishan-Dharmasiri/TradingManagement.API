@@ -32,7 +32,5 @@ namespace TradingManagement.API.Controllers
             else
                 return Ok(portfolioToReturn);
         }
-
-
     }
 }

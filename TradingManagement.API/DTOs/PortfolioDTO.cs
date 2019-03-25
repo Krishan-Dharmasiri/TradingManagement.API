@@ -12,5 +12,6 @@ namespace TradingManagement.API.DTOs
         public string Type { get; set; }
         public decimal Return { get; set; }
         public float Volatility { get; set; }
+        public ICollection<ConstituentDTO> Constituents { get; set; }
     }
 }
